@@ -50,7 +50,7 @@ Unityの音声入力機能。
 
 #### フレームワーク・ライブラリ・モジュール
 * MPLAB X
-* VC8
+* XC8
 * Unity
 * Unity PhraseRecognizer
 
