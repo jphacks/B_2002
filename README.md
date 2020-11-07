@@ -8,7 +8,7 @@
 ### 製品説明（具体的な製品の説明）
 
 YouTubeの紹介動画
-https://www.youtube.com/watch?v=9LUPmYmFSeU&t=10s
+https://www.youtube.com/watch?v=9LUPmYmFSeU
 ### 特長
 ####1. 特長1
 ####2. 特長2
