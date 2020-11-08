@@ -1,2 +1,5 @@
+GitHubに掲載しているファイルはすべてMPLAB XによるPICマイコンのプログラムです。
+ソースコードとプロジェクト全体をまとめたzipファイルがあります。
+
 Unityデータはファイルサイズが大きいため以下のGoogleドライブからダウンロードをお願いします。
 https://drive.google.com/file/d/1T8j9uNPfEAlWeWE-q-PXvym7jnE8_ILD/view?usp=sharing
